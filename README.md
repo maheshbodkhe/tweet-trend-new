@@ -1,4 +1,4 @@
-# Trend application v2
+# Trend application v3
 
 This is a small applicaiton which contains main and test folders.  
 Main contains application code.  
